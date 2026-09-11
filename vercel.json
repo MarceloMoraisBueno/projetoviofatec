@@ -1,0 +1,6 @@
+{
+    "git": {
+      "deploymentEnabled": false
+      git add vercel.json
+      git commit -m "cd(deploy): garantir deploy apenas por tag"}
+}
